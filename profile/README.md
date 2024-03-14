@@ -1,5 +1,6 @@
 
 ![briefing](https://github.com/gustavoTheot/briefing-api-solid/assets/44641003/bf4e0e8a-79e3-470f-839d-ea8c64264e46)
+
 ### 📂 Conteúdo
 
 - [Features](#fet)
@@ -23,8 +24,7 @@
 
 ### ✅ Pré-requisitos
 
-Antes de começar, certifique-se que você possui as seguinte ferramentas: [Node.js](https://nodejs.org/en) e o [Docker](https://www.docker.com/). <br>
-Além de ter um bom editar para trabalhar com o código como o [VSCode](https://code.visualstudio.com/Download) ou [Atom](https://atom-editor.cc/).
+Antes de começar, certifique-se que você possui as seguinte ferramentas: [Node.js](https://nodejs.org/en) e o [Docker](https://www.docker.com/). Além de ter um bom editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/Download) ou [Atom](https://atom-editor.cc/).
 
 <a id="sobre"></a>
 
@@ -40,13 +40,17 @@ O backend da aplicação foi construida utilizando os conceitos do `SOLID`, pens
 
 ### Instruções de Uso 📋
 
-1. **Clone o repositório:**
+1. **Clone os repositórios:**
 
       ```bash
-      git clone https://github.com/gustavoTheot/briefing-api-solid.git
+      # backend
+      git clone https://github.com/Edital-Viva-Modeis/backend.git
+
+      # frontend
+      git clone https://github.com/Edital-Viva-Modeis/frontend.git
       ```
 
-2. Acesse o repositório do **[backend](./backend/readme.md)** e **[frontend](./frontend/README.md)**
+2. Acesse o repositório do **[backend](https://github.com/Edital-Viva-Modeis/backend)** e **[frontend](https://github.com/Edital-Viva-Modeis/frontend)** para poder dar continuidade a execução da aplicação.
 
 ### Autor
 
