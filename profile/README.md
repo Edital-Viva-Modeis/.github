@@ -32,6 +32,8 @@ Antes de começar, certifique-se que você possui as seguinte ferramentas: [Node
 
 ### Sobre a Aplicação 🚀
 
+![picasion com_39271043b429cf3fd56d8ef28da64116](https://github.com/Edital-Viva-Modeis/.github/assets/44641003/45a71b26-7a35-46a4-87a8-b1c0d77593b4)
+
 Este é um sistema web desenvolvido para criar e gerenciar briefings. Ele oferece funcionalidades como listar, editar e remover briefings. Para criar um briefing, basta preencher os dados necessários, como nome do cliente, descrição do produto e estado atual do negócio.
 
 Após a criação, é possível acessar a página de listagem, onde todos os briefings criados são exibidos. A partir dessa lista, é possível editar ou remover um briefing. Para remover basta clicar no icone, confirmar se realmente deseja ralizar a exclusão, e para editar, basta clicar no ícone correspondente, o que abrirá um modal para realizar as alterações.
@@ -53,6 +55,8 @@ O backend da aplicação foi construida utilizando os conceitos do `SOLID`, pens
       ```
 
 2. Acesse o repositório do **[backend](https://github.com/Edital-Viva-Modeis/backend)** e **[frontend](https://github.com/Edital-Viva-Modeis/frontend)** para poder dar continuidade a execução da aplicação.
+
+3. Após realizar todas instruções encontradas dentro do **readme.md** presente `frontend` e `backend`, a aplicação já estará pronta para uso.
 
 ### Autor
 
