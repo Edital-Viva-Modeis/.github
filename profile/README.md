@@ -19,6 +19,8 @@
 - [x] Atualizar briefing
 - [x] Teste unitário no backend
 - [ ] Teste no frontend
+- [x] Configurar o github actions para executar os testes
+
 
 <a id="pre"></a>
 
